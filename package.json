@@ -1,0 +1,22 @@
+{
+  "name": "knowledge-test-vue-qr-code-scanner",
+  "version": "1.0.0",
+  "description": "Server layer for mock-now lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "now",
+    "mock-server",
+    "mockable"
+  ],
+  "author": "Oleh Biriukov",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.2",
+    "cors": "^2.8.4"
+  }
+}
